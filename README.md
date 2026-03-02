@@ -8,7 +8,7 @@ O projeto exibe informações detalhadas sobre uma criatura inspirada no univers
 
 ## 📸 Preview
 
-![Preview do Projeto](assets/monster-card.png)
+![Preview do Projeto](monster-card.png)
 
 ---
 
